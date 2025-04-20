@@ -20,13 +20,13 @@
         <mxCell id="eKTRaCFdjWAk7fQiIxSw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eKTRaCFdjWAk7fQiIxSw-4" target="eKTRaCFdjWAk7fQiIxSw-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKTRaCFdjWAk7fQiIxSw-4" value="Leia N1, N2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eKTRaCFdjWAk7fQiIxSw-4" value="Leia S" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKTRaCFdjWAk7fQiIxSw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eKTRaCFdjWAk7fQiIxSw-6" target="eKTRaCFdjWAk7fQiIxSw-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKTRaCFdjWAk7fQiIxSw-6" value="Informe&lt;div&gt;&amp;nbsp;dois números&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eKTRaCFdjWAk7fQiIxSw-6" value="Informe&lt;div&gt;&amp;nbsp;o saldo atual&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="150" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eKTRaCFdjWAk7fQiIxSw-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eKTRaCFdjWAk7fQiIxSw-3" target="eKTRaCFdjWAk7fQiIxSw-6">
@@ -38,13 +38,13 @@
         <mxCell id="eKTRaCFdjWAk7fQiIxSw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eKTRaCFdjWAk7fQiIxSw-9" target="eKTRaCFdjWAk7fQiIxSw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKTRaCFdjWAk7fQiIxSw-9" value="P = N1 X N2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eKTRaCFdjWAk7fQiIxSw-9" value="A= S X 1,01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKTRaCFdjWAk7fQiIxSw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eKTRaCFdjWAk7fQiIxSw-12" target="eKTRaCFdjWAk7fQiIxSw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKTRaCFdjWAk7fQiIxSw-12" value="P" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eKTRaCFdjWAk7fQiIxSw-12" value="A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="490" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
